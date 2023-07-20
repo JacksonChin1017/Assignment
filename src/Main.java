@@ -12,6 +12,7 @@ class Hello{
         for (int i = 0; i < 5; i++) {
             System.out.println("gitttt");
         }
+        System.out.println("git");
     }
 }
 
